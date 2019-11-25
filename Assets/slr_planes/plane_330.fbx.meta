@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: a8a3169b391f4b945891099c7c1a466a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Curve.446
+    100002: Curve.447
+    100004: Curve.448
+    100006: Curve.449
+    100008: Curve.450
+    100010: Curve.451
+    100012: Curve.452
+    100014: Curve.453
+    100016: Curve.454
+    100018: Curve.455
+    100020: Curve.456
+    100022: Curve.457
+    100024: Curve.458
+    100026: Curve.459
+    100028: //RootNode
+    100030: plane_330.001
+    400000: Curve.446
+    400002: Curve.447
+    400004: Curve.448
+    400006: Curve.449
+    400008: Curve.450
+    400010: Curve.451
+    400012: Curve.452
+    400014: Curve.453
+    400016: Curve.454
+    400018: Curve.455
+    400020: Curve.456
+    400022: Curve.457
+    400024: Curve.458
+    400026: Curve.459
+    400028: //RootNode
+    400030: plane_330.001
+    2100000: SVGMat.1889
+    2100002: SVGMat.1890
+    2100004: SVGMat.1891
+    2100006: SVGMat.1892
+    2100008: SVGMat.1893
+    2100010: SVGMat.1894
+    2100012: SVGMat.1895
+    2100014: SVGMat.1896
+    2100016: SVGMat.1897
+    2100018: SVGMat.1898
+    2100020: SVGMat.1899
+    2100022: SVGMat.1900
+    2100024: SVGMat.1901
+    2100026: SVGMat.1902
+    2100028: SVGMat.1903
+    2300000: Curve.446
+    2300002: Curve.447
+    2300004: Curve.448
+    2300006: Curve.449
+    2300008: Curve.450
+    2300010: Curve.451
+    2300012: Curve.452
+    2300014: Curve.453
+    2300016: Curve.454
+    2300018: Curve.455
+    2300020: Curve.456
+    2300022: Curve.457
+    2300024: Curve.458
+    2300026: Curve.459
+    2300028: plane_330.001
+    3300000: Curve.446
+    3300002: Curve.447
+    3300004: Curve.448
+    3300006: Curve.449
+    3300008: Curve.450
+    3300010: Curve.451
+    3300012: Curve.452
+    3300014: Curve.453
+    3300016: Curve.454
+    3300018: Curve.455
+    3300020: Curve.456
+    3300022: Curve.457
+    3300024: Curve.458
+    3300026: Curve.459
+    3300028: plane_330.001
+    4300000: plane_330.001
+    4300002: Curve.446
+    4300004: Curve.447
+    4300006: Curve.448
+    4300008: Curve.449
+    4300010: Curve.450
+    4300012: Curve.451
+    4300014: Curve.452
+    4300016: Curve.453
+    4300018: Curve.454
+    4300020: Curve.455
+    4300022: Curve.456
+    4300024: Curve.457
+    4300026: Curve.458
+    4300028: Curve.459
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

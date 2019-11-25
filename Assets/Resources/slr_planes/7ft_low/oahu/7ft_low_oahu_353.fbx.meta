@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 73e9366762b3af54dac0608c55e34f8b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 7ft_low_oahu_353hole_0
+    100004: 7ft_low_oahu_353hole_1
+    100006: 7ft_low_oahu_353hole_10
+    100008: 7ft_low_oahu_353hole_11
+    100010: 7ft_low_oahu_353hole_12
+    100012: 7ft_low_oahu_353hole_2
+    100014: 7ft_low_oahu_353hole_3
+    100016: 7ft_low_oahu_353hole_4
+    100018: 7ft_low_oahu_353hole_5
+    100020: 7ft_low_oahu_353hole_6
+    100022: 7ft_low_oahu_353hole_7
+    100024: 7ft_low_oahu_353hole_8
+    100026: 7ft_low_oahu_353hole_9
+    400000: //RootNode
+    400002: 7ft_low_oahu_353hole_0
+    400004: 7ft_low_oahu_353hole_1
+    400006: 7ft_low_oahu_353hole_10
+    400008: 7ft_low_oahu_353hole_11
+    400010: 7ft_low_oahu_353hole_12
+    400012: 7ft_low_oahu_353hole_2
+    400014: 7ft_low_oahu_353hole_3
+    400016: 7ft_low_oahu_353hole_4
+    400018: 7ft_low_oahu_353hole_5
+    400020: 7ft_low_oahu_353hole_6
+    400022: 7ft_low_oahu_353hole_7
+    400024: 7ft_low_oahu_353hole_8
+    400026: 7ft_low_oahu_353hole_9
+    2100000: SVGMat.27544
+    2100002: SVGMat.27545
+    2100004: SVGMat.27546
+    2100006: SVGMat.27547
+    2100008: SVGMat.27548
+    2100010: SVGMat.27549
+    2100012: SVGMat.27550
+    2100014: SVGMat.27551
+    2100016: SVGMat.27552
+    2100018: SVGMat.27553
+    2100020: SVGMat.27554
+    2100022: SVGMat.27555
+    2100024: SVGMat.27556
+    2100026: SVGMat.27557
+    2300000: //RootNode
+    2300002: 7ft_low_oahu_353hole_0
+    2300004: 7ft_low_oahu_353hole_1
+    2300006: 7ft_low_oahu_353hole_10
+    2300008: 7ft_low_oahu_353hole_11
+    2300010: 7ft_low_oahu_353hole_12
+    2300012: 7ft_low_oahu_353hole_2
+    2300014: 7ft_low_oahu_353hole_3
+    2300016: 7ft_low_oahu_353hole_4
+    2300018: 7ft_low_oahu_353hole_5
+    2300020: 7ft_low_oahu_353hole_6
+    2300022: 7ft_low_oahu_353hole_7
+    2300024: 7ft_low_oahu_353hole_8
+    2300026: 7ft_low_oahu_353hole_9
+    3300000: //RootNode
+    3300002: 7ft_low_oahu_353hole_0
+    3300004: 7ft_low_oahu_353hole_1
+    3300006: 7ft_low_oahu_353hole_10
+    3300008: 7ft_low_oahu_353hole_11
+    3300010: 7ft_low_oahu_353hole_12
+    3300012: 7ft_low_oahu_353hole_2
+    3300014: 7ft_low_oahu_353hole_3
+    3300016: 7ft_low_oahu_353hole_4
+    3300018: 7ft_low_oahu_353hole_5
+    3300020: 7ft_low_oahu_353hole_6
+    3300022: 7ft_low_oahu_353hole_7
+    3300024: 7ft_low_oahu_353hole_8
+    3300026: 7ft_low_oahu_353hole_9
+    4300000: 7ft_low_oahu_353
+    4300002: 7ft_low_oahu_353hole_0
+    4300004: 7ft_low_oahu_353hole_1
+    4300006: 7ft_low_oahu_353hole_2
+    4300008: 7ft_low_oahu_353hole_3
+    4300010: 7ft_low_oahu_353hole_4
+    4300012: 7ft_low_oahu_353hole_5
+    4300014: 7ft_low_oahu_353hole_6
+    4300016: 7ft_low_oahu_353hole_7
+    4300018: 7ft_low_oahu_353hole_8
+    4300020: 7ft_low_oahu_353hole_9
+    4300022: 7ft_low_oahu_353hole_10
+    4300024: 7ft_low_oahu_353hole_11
+    4300026: 7ft_low_oahu_353hole_12
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

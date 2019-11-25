@@ -10,7 +10,7 @@ public class testScript : MonoBehaviour
         MeshFilter mesh = gameObject.GetComponent<MeshFilter>();
         Vector3[] vertices = mesh.mesh.vertices;
         for(int i = 0; i < vertices.Length; i++) {
-            Debug.Log(vertices[i].x);
+            Debug.Log(vertices[i].x + "\n");
         }
     }
 
