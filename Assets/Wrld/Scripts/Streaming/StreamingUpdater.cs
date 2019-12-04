@@ -21,7 +21,7 @@ namespace Wrld
 
         public void Update(CameraState cameraState)
         {
-            Debug.Assert(((Vector3)cameraState.ViewMatrix.GetColumn(3)).sqrMagnitude < 0.000001f,
+            Debug.Assert(((Vector3)cameraState.ViewMatrix.GetColumn(3)).sqrMagnitude < 0.0001f,
                 "The camera is expected to have zero translation in its view matrix - translation should be put in LocationECEF instead");
 
             if (InterestPointProvider.ClampInterestPointToValidRangeIfRequired(ref cameraState.InterestPointEcef))
